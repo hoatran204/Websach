@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "WebSach",
+			"path": "."
+		},
+		{
+			"name": "fontawesome-free-6.5.1-web",
+			"path": "../../../nckh/static/fontawesome-free-6.5.1-web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebSach"
+	}
+}
